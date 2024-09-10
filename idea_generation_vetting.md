@@ -7,17 +7,28 @@
 	- Users can search for a specific dish they are interested in cooking. Binary search can be utilized to search for specific recipes based on dish type, ingrediant, time to prepare dish etc.
 
 # AI Generated Ideas: 
-1. AI-Powered Book Recommendation System
-	- Use Case: A system that recommends books to users based on their reading preferences (genre, length, or rating). The recommendation engine can sort books by different factors, and users can search for recommendations based on a specific range of attributes (e.g., finding books between 200–300 pages or with a 4.0–5.0 rating).
-	- Binary Search: Use binary search to efficiently find books within a user’s preferred length or rating range in a sorted list of books.
+1. **Prompt:** Consider the role of an manager at a coffee shop. His job requires for him to restock ingredients, overlook repairs, and other general day to day tasks. He can do most of the tasks easily but can get overwhelmed during store rushes. What are some python coding project ideas that use binary search functions that can assist him?
+	- **Idea:** Repair Schedule Optimizer
+		- Idea: The manager needs to keep track of scheduled repairs for equipment (e.g., espresso machines, grinders). Use a binary search to quickly find and update repair dates when needed, ensuring the shop never misses a maintenance check.
+		- How it works:
+		- Keep a sorted list of equipment repairs and scheduled dates.
+		- Binary search can help locate specific equipment quickly to see when the next maintenance is scheduled.
+		- Easily update or reschedule repairs by finding the entry via binary search.
+		- Extension: Implement a notification system that reminds the manager of upcoming repairs.
 
-2. Real Estate Price Estimator
-   	- Use Case: A platform that predicts the price of real estate based on property features (square footage, number of rooms, etc.). Users can search for homes within a specific price range.
-	- Binary Search: Implement binary search to find homes that fall within a specific price range or square footage in a sorted dataset of real estate listings.
+2. **Prompt:** You are a chemist and you have some python skills. You are trying to come up with a few projects that would be useful for you and your lab team. By using binary search in Python, what project ideas can you come up with?
+	- **Idea:** Chemical Compound Database
+		- Description: Develop a searchable database for chemical compounds where you can quickly retrieve information based on different attributes like molecular weight, boiling point, or pH.
+		- Key Features:
+			- Store chemical compounds with attributes like molecular weight, boiling point, melting point, etc.
+	    		- Implement binary search to quickly find compounds based on these attributes.
+	    		- Provide functionalities to sort compounds based on different criteria (e.g., molecular weight, boiling point).
 
-3. Custom Hardware Component Finder
-   	- Use Case: A platform that allows users to find compatible hardware components for custom-built computers (like motherboards, GPUs, etc.) based on performance or price.
-	- Binary Search: Use binary search to find components within a sorted list based on compatibility (e.g., search for motherboards that support specific CPU sockets) or performance ratings.
+3. **Prompt:** You are a new social media marketing team member for a company that specializes in automated cat litter boxes. You are trying to come up with a solution to drive community engagement for your companies social media channels. Utilizing binary search in the python programming language, are there any project ideas that can assist you with improving engagement? Please respond only with project ideas and not with code.
+	- **Idea:** Image vs. Video Content Comparison
+		- Objective: Utilize binary search to compare engagement rates between different types of content (images, videos, polls) to find which medium performs best.
+Benefit: Helps in tailoring content strategy by focusing on the content format that drives the most interaction.		
 
+# Reflection: 
 
  
