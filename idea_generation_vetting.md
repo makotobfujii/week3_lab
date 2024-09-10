@@ -31,7 +31,7 @@ Benefit: Helps in tailoring content strategy by focusing on the content format t
 
 ## Reflection: 
 
-#Idea Selection:
+# Idea Selection:
 Cooking Recipe Directory
 For our advanced Python programming class, we chose to build a Cooking Recipe Directory because we find it both practical and educational. We often look up recipes, so creating a program where users can search for specific dishes based on criteria like dish type, ingredients, or preparation time feels like something we could use in everyday life. This project also allows us to apply binary search, which is a great way to make searching more efficient. By organizing the recipes in a sorted list (e.g., based on cooking time or alphabetical order), we can use binary search to quickly find a recipe, cutting down the search time significantly compared to a linear search. It’s a useful way to reinforce our understanding of search algorithms while working on something relatable.
  
