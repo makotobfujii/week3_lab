@@ -1,7 +1,10 @@
 # Our Ideas:
-1. Application Tracker: Job seekers can track their applications by specific fields. Binary search could be utilized to retrieve specific applications by date, location, company etc.
-2. Inventory Management Tool: Can be used to track stock levels of products. Users search for a product id and binary search can be used to find the product if the list is sorted
-3. Cooking Recipe Directory: Users can search for a specific dish they are interested in cooking. Binary search can be utilized to search for specific recipes based on dish type, ingrediant, time to prepare dish etc.
+1. Application Tracker:
+	- Job seekers can track their applications by specific fields. Binary search could be utilized to retrieve specific applications by date, location, company etc.
+2. Inventory Management Tool:
+	- Can be used to track stock levels of products. Users search for a product id and binary search can be used to find the product if the list is sorted
+3. Cooking Recipe Directory:
+	- Users can search for a specific dish they are interested in cooking. Binary search can be utilized to search for specific recipes based on dish type, ingrediant, time to prepare dish etc.
 
 # AI Generated Ideas: 
 1. AI-Powered Book Recommendation System
