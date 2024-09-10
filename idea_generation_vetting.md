@@ -5,16 +5,16 @@
 
 # AI Generated Ideas: 
 1. AI-Powered Book Recommendation System
-	•	Use Case: A system that recommends books to users based on their reading preferences (genre, length, or rating). The recommendation engine can sort books by different factors, and users can search for recommendations based on a specific range of attributes (e.g., finding books between 200–300 pages or with a 4.0–5.0 rating).
-	•	Binary Search: Use binary search to efficiently find books within a user’s preferred length or rating range in a sorted list of books.
+	- Use Case: A system that recommends books to users based on their reading preferences (genre, length, or rating). The recommendation engine can sort books by different factors, and users can search for recommendations based on a specific range of attributes (e.g., finding books between 200–300 pages or with a 4.0–5.0 rating).
+	- Binary Search: Use binary search to efficiently find books within a user’s preferred length or rating range in a sorted list of books.
 
 2. Real Estate Price Estimator
-	•	Use Case: A platform that predicts the price of real estate based on property features (square footage, number of rooms, etc.). Users can search for homes within a specific price range.
-	•	Binary Search: Implement binary search to find homes that fall within a specific price range or square footage in a sorted dataset of real estate listings.
+   	- Use Case: A platform that predicts the price of real estate based on property features (square footage, number of rooms, etc.). Users can search for homes within a specific price range.
+	- Binary Search: Implement binary search to find homes that fall within a specific price range or square footage in a sorted dataset of real estate listings.
 
 3. Custom Hardware Component Finder
-	•	Use Case: A platform that allows users to find compatible hardware components for custom-built computers (like motherboards, GPUs, etc.) based on performance or price.
-	•	Binary Search: Use binary search to find components within a sorted list based on compatibility (e.g., search for motherboards that support specific CPU sockets) or performance ratings.
+   	- Use Case: A platform that allows users to find compatible hardware components for custom-built computers (like motherboards, GPUs, etc.) based on performance or price.
+	- Binary Search: Use binary search to find components within a sorted list based on compatibility (e.g., search for motherboards that support specific CPU sockets) or performance ratings.
 
 
  
