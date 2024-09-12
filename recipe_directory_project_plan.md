@@ -30,7 +30,7 @@ https://www.themealdb.com/api.php
 1. UI: Handles user input and output
 2. Search System: Performs search based on user's input
 3. Recipe Data: Recipe data is from [TheMealDB](https://www.themealdb.com)
-4. Binary Search & Linear Search Algorithms: Provides efficient ways to search the recipes by name or preparation time.
+4. Binary Search Algorithms: Provides efficient ways to search the recipes by name or preparation time.
 
 ## Interactions: 
 1. UI to Recipe Data Base: The UI queries the recipe database to display list of possible filtration category options
