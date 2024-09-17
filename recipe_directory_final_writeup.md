@@ -110,3 +110,5 @@ Methods:
 display_menu(): To display the user menu.
 handle_search(): To process user input and delegate search requests to the RecipeDirectory.
 ```
+## Final Refection:
+While building the project, we tried to keep it as authentic to the original plan as possible. We implemented all the different classes with the attributes as planned; however, we did not incorporate the use of the API. Instead, we created a sample database with a few recipes to run the code. We have a working UI that handles user input and output, but we left out a few filters like serving size and category. Throughout the project, we learned about the importance of having a solid plan and working from it, making any adaptations as necessary. An idea like this can be very expandable, so it's important to limit our ideas to what is doable considering the due date.
